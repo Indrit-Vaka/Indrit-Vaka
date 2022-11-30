@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indrit-Vaka
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning C#, unity and web basic
+- 🌱 I’m currently learning Spark, scala, GCP, C# 
 - 💞️ I’m looking to collaborate on unity Projet
 - 📫 How to reach me indritvaka@gmail.com
 
