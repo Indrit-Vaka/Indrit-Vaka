@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Indrit Vaka from Albania<br><br>- 🔭 I’m working as a Data Engineer<br>- 📚 I'm currently learning python, Kubernetes<br>- ⚡ In my free time I play around with unity</p>
+<p align="left">I'm Indrit Vaka from Albania<br><br>- 🔭 I’m working as a Data Engineer<br>- 📚 I'm currently learning python, Kubernetes<br>- ⚡ In my free time I play with unity</p>
 
 ###
 
