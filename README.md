@@ -24,16 +24,40 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+👋 Hi, I’m Indrit
 
-###
+I’m a Software Engineer passionate about building scalable, secure, and data-driven applications. My work spans across Spring Boot, Angular, PostgreSQL, and GCP, with strong interests in automation, data engineering, and AI integration.
 
-<h3 align="left">👩‍💻  About Me</h3>
+💡 What I do
 
-###
+🚀 Developing an Instagram automation platform with smart workflows (comment/DM triggers, AI-powered replies, analytics, dashboards).
 
-<p align="left">I'm Indrit Vaka from Albania<br><br>- 🔭 I’m working as a Data Engineer<br>- 📚 I'm currently learning python, Kubernetes<br>- ⚡ In my free time I play with unity</p>
+🌐 Building full-stack apps using Spring Boot (backend) + Angular (frontend), with a focus on clean architecture, modular services, and CI/CD with Docker & GitLab.
 
+📊 Designing big data pipelines with Apache Airflow, Spark, and BigQuery to process, analyze, and visualize large datasets.
+
+📈 Creating interactive dashboards using Grafana, OpenSearch, and Strapi for monitoring, analytics, and CMS-driven content.
+
+⚡ Highlights
+
+Engineered a robust automation activity tracking system (partitioned & clustered for performance in BigQuery).
+
+Hands-on with DevOps: Docker, NGINX reverse proxy, Cloud Run/Functions, GCP storage & KMS.
+
+Exploring lightweight Bitcoin wallets & blockchain infrastructure for secure finance integrations.
+
+Experienced with multi-language platforms (English, Albanian, Italian), from booking/reservation systems to learning dashboards.
+
+📚 Currently learning
+
+Advanced data engineering workflows with Apache Spark & PySpark.
+
+Kotlin & Android development, building mobile extensions of web platforms.
+
+Best practices for secure token management & OAuth (Instagram/Facebook APIs).
+
+📬 Let’s connect!
+I’m always open to collaborations on automation, data pipelines, and scalable full-stack solutions.
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
